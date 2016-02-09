@@ -1,3 +1,4 @@
 function functionName(hello) {
-	hello
+	console.log('hello, world!');
+	console.log('please, replace this shit with spaces');
 }
