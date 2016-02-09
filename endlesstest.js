@@ -1,9 +1,10 @@
-function functionName(hello) {
-	console.log('hello, world!');
-	console.log('please, replace this shit with spaces');
+function hope() {
+  console.log('I hope this now works!');
+  console.log('I am work with space');
 }
-
-
-function thisneedtoworknow(comeon) {
-	console.log(common);
+function hello(cool) {
+  return cool;
 }
+console.log('this is another cool, hahaha!');
+function notAutoIndent() {
+
